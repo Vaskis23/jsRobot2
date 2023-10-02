@@ -1,0 +1,26 @@
+body {
+    background-color: #;
+}
+
+#gameMap {
+    border: 3px solid white;
+    height: 72px;
+    margin-bottom: 5px;
+}
+
+#gameMap .robot {
+    width: 72px;
+    height: 72px;
+    background-image: url(Martin-Berube-Character-Robot.72.png);
+    display: inline-block;
+}
+
+#gameMap .wrench {
+    width: 72px;
+    height: 72px;
+    background-image: url(Google-Noto-Emoji-Objects-62968-wrench.72.png);
+    display: inline-block;
+}
+.controls {
+    text-align: center;
+}
